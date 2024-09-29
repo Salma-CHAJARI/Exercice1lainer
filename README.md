@@ -36,7 +36,7 @@ L'objectif de ce projet est de savoir comment utiliser **ConstraintLayout** et d
 
 1. Cloner ce dépôt :
    ```bash
-   git clone <https://github.com/Salma-CHAJARI/Exercice1TP1.git>
+   git clone < https://github.com/Salma-CHAJARI/Exercice1lainer.git>
 2. Ouvrez le projet dans *Android Studio*.
 3. Compilez et lancez l'application sur un émulateur ou un appareil Android.
 ## *Exécution*
